@@ -2,7 +2,7 @@ export const projectData = [
   {
     title: "netflix",
     des: "Netflix colone , react js using , Axios for api call and TMBD Api, Material icons, Firebase hosting.",
-    source: "/../public/netflix.jpg",
+    source: "/netflix.jpg",
     siteLink: "https://my-netflix-4a7a4.web.app/",
   },
   {
