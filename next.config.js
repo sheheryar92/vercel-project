@@ -21,9 +21,14 @@ module.exports = {
   "cms-assets.tutsplus.com",
   "cdn.iconscout.com",
   "upload.wikimedia.org",
-
+"user-images.githubusercontent.com",
   "clipartmax.com",
   "uxwing.com",
+  "michaelsoriano.com",
+  "d2gdtie5ivbdow.cloudfront.net",
+"cdn.vox-cdn.com",
+"cdn.vox-cdn.com"
+
   ]
        
       },
