@@ -27,7 +27,9 @@ module.exports = {
   "michaelsoriano.com",
   "d2gdtie5ivbdow.cloudfront.net",
 "cdn.vox-cdn.com",
-"cdn.vox-cdn.com"
+"cdn.vox-cdn.com",
+              "cdn.dribbble.com",
+"encrypted-tbn0.gstatic.com"
 
   ]
        
