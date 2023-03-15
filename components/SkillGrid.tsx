@@ -7,9 +7,7 @@ type Props = {
 };
 
 export default function SkillGrid({ skillIcon }: Props) {
-  {
-    console.log(skillIcon, "this is sill prop");
-  }
+
   return (
     <div className="group relative flex cursor-pointer justify-center">
       <motion.div

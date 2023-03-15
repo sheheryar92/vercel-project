@@ -39,7 +39,10 @@ function Projects({}: Props) {
                 y: 0,
               }}
             >
-              <a href={p.siteLink} target="_blank">
+              <a href={p.siteLink} 
+              rel="noopener noreferrer"
+              target="_blank"
+              >
                 <Image
                   src={p.source}
                   width="400"
@@ -60,7 +63,10 @@ function Projects({}: Props) {
               
               </h3>
               <h4 className="text-center text-white uppercase font-semibold">
-                <a href={p.siteLink} target="_blank" className="dark:text-white text-black text-xl font-semibold">
+                <a href={p.siteLink} 
+                target="_blank"
+                rel="noopener noreferrer"
+                className="dark:text-white text-black text-xl font-semibold">
                   {p.title}
                 </a>
               </h4>
