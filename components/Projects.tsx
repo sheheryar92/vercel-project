@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import { projectData } from "./projectJason";
 
 import Image from "next/image";
+import Link from "next/link";
 
 type Props = {};
 
@@ -39,10 +40,11 @@ function Projects({}: Props) {
                 y: 0,
               }}
             >
-              <a href={p.siteLink} 
+             <Link 
+              href={p.siteLink} 
               rel="noopener noreferrer"
               target="_blank"
-              >
+             >
                 <Image
                   src={p.source}
                   width="400"
@@ -50,7 +52,7 @@ function Projects({}: Props) {
                   className="w-48 h-32 md:w-96 md:h-96  object-contain"
                   alt={p.title}
                 />
-              </a>
+            </Link>
             </motion.div>
 
             <div className="space-y-2 px-0 md:px-5 max-w-6xl">
