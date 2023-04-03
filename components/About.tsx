@@ -44,13 +44,7 @@ xl:w-[500px] xl:h-[600px]
         backgroud
       </h4>
       <p className="text-base md:text-xl text-gray-500">
-        Hi this is Sheheryar, a professional web developer, Practical knowledge
-        of website and application coding, quick to pick up and master new
-        technologies, competent to work both independently and in team.
-        excellent understanding of MERN, HTML, JavaScript, and React Native, as
-        well as strong communication and problem-solving abilities. Always had a
-        passion for web development. I am always looking for new technology and
-        keeping up with business trends.
+      Hi, I’m Sheheryar Qazi, An experienced Front-End developer. I am skilled in responsive website development. Practical knowledge of website and application coding, quick to pick up and master new technologies, .Strong innovative and creative.
       </p>
     </div>
   );
