@@ -37,12 +37,7 @@ function Experince({  }: Props) {
           date="2017 - 2020"
           photo={Apg}
         />
-        <ExperinceCard
-          title="ibex"
-          position="customer service representative"
-          date="2015 - 2016"
-          photo={Ibex}
-        />
+      
       </div>
     </div>
   );
